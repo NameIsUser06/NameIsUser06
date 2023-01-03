@@ -2,19 +2,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=NameIsUser06&animation=fadeIn&fontSize=80&desc=Backend%20Developer)
 <h1 align="center">
 👋, 조우성(Jo Woo Sung)</h1>
-<h3 align="center">Backend Developer in BSSM</h3>
+<h3 align="center">Backend Developer in Busan Software Meister High School</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nameisuser06&label=Profile%20views&color=0e75b6&style=flat" alt="nameisuser06" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nameisuser06" alt="nameisuser06" /></a> </p>
 
-- 🔭 I’m currently working on [SoSoTeam](https://github.com/SoSoTeam)
+- 🔭 I’m currently working on [1-2](https://github.com/SoSoTeam)
 
 - 🌱 I’m currently learning **Spring Framework and node.js**
 
 - 💬 Ask me about **C, Python, Js, Css, Html**
 
-- 📫 How to reach me **woosoungcho@gmail.com**
+- 📫 How to reach me **2022031@bssm.hs.kr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
