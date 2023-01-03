@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Jo Woo Sung&animation=fadeIn&fontSize=80&desc=Backend%20Developer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Jo%20Woo %20Sung&animation=fadeIn&fontSize=80&desc=Backend%20Developer)
 <h1 align="center">
 👋, 조우성(Jo Woo Sung)</h1>
 <h3 align="center">Backend Developer in Busan Software Meister High School</h3>
