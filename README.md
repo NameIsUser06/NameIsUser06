@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=NameIsUser06&animation=fadeIn&fontSize=80&desc=Backend%20Developer)
 <h1 align="center">
-👋, 조우성(Cho Woo Sung)</h1>
+👋, 조우성(Jo Woo Sung)</h1>
 <h3 align="center">Backend Developer in Busan Software Meister High School</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nameisuser06&label=Profile%20views&color=0e75b6&style=flat" alt="nameisuser06" /> </p>
